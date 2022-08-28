@@ -35,9 +35,15 @@
     transition: 0.5s;
 }
 .btnAllign{
-    margin-left:40%;
+    margin-left:35%;
+    width:120px;
     text-align: center;
 }
+.btnAllign:hover{
+    transform: scale(1.1);
+}
+
+
 .authAlter{
     margin-left: 25%;
     margin-right: 10%;
